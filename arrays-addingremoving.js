@@ -1,1 +1,1 @@
-// Chapter 16 - Arrays: Adding and removing elementss
+// Chapter 16 - Arrays: Adding and removing elements
